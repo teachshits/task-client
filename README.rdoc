@@ -1,4 +1,4 @@
-== Usage
-bundle install
-rails server -p 3000 &
-bundle exec sidekiq
+===Usage
+* bundle install
+* rails server -p 3000 &
+* bundle exec sidekiq
